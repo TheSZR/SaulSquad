@@ -1,4 +1,5 @@
-<img src="https://1.bp.blogspot.com/-1DUZU0e_22M/XUcemophfQI/AAAAAAAAAlk/2IYmjFqzt-c4Sk4BaJSX74_9lVJIfJYcwCK4BGAYYCw/s113-pf/SZRWorksIcon.png" height="50"> <h1> SaulSquad ModPack </h1>
+<img src="https://1.bp.blogspot.com/-1DUZU0e_22M/XUcemophfQI/AAAAAAAAAlk/2IYmjFqzt-c4Sk4BaJSX74_9lVJIfJYcwCK4BGAYYCw/s113-pf/SZRWorksIcon.png" height="250">
+<h1> SaulSquad ModPack </h1>
 
 SaulSquad is a modpack for BombSquad.
 
