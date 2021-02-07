@@ -292,7 +292,7 @@ class Spaz(ba.Actor):
                                         'turbo / button-spamming knocks'
                                         ' you out.')),
                             subs=[('${NAME}', self.node.name)]),
-                                         color=(1, 0.5, 0))
+                            color=(1, 0.5, 0))
                         ba.playsound(ba.getsound('error'))
         else:
             self._turbo_filter_times = {}
